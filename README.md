@@ -1,5 +1,6 @@
 # repo_SI_licencias_1
 1. La licencia que he elegido es Apache License 2.0
+
 2.El creador no se responsabiliza de el uso indebido (creo)
 
 --------
@@ -10,4 +11,4 @@
 ->No, porque con esto se exige que los concesionarios preserven las mismas libertades al distribuir sus copias y derivados.
 
 
-
+# Hecho por Alejandro Marin para Isidoro Nevares #
