@@ -1,6 +1,6 @@
 # repo_SI_licencias_1
 1. La licencia que he elegido es Apache License 2.0
-2.El creador no se responsabiliza de l uso (creo)
+2.El creador no se responsabiliza de el uso indebido (creo)
 
 --------
 
